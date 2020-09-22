@@ -33,5 +33,5 @@ def calculate_price(price, cash_coupon, percent_coupon):
 
 
 if __name__ == '__main__':
-    print(calculate_price(9.75, 10, 15))
+    print(calculate_price(75.00, 5, 10))
 
