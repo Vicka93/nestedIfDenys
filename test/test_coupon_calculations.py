@@ -93,3 +93,10 @@ class MyTestCase(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+
+
+"""
+In this program, I wrote a  function that accepts the amount of the purchase,
+ the cash coupon,the percent coupon 
+ and it  calculates and return the total order item. All tests provided above passed
+"""
